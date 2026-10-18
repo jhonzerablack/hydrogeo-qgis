@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+  <pyqgis_plugin name="HydroGeo Tools" version="0.8.0" plugin_id="hydrogeo_tools">
+    <description><![CDATA[Ferramentas para recursos hidricos, relevo, hidrologia, drenagem e microbacias.]]></description>
+    <about><![CDATA[Plugin QGIS para analise hidrologica, territorial e geoespacial.]]></about>
+    <version>0.8.0</version>
+    <qgis_minimum_version>4.0</qgis_minimum_version>
+    <homepage>https://jhonzerablack.github.io/hydrogeo-qgis/</homepage>
+    <file_name>hydrogeo_tools-0.8.0.zip</file_name>
+    <icon>icons/icon.png</icon>
+    <author_name>Jhonata Mendes Alves</author_name>
+    <download_url>https://jhonzerablack.github.io/hydrogeo-qgis/plugins/hydrogeo_tools-0.8.0.zip</download_url>
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <repository>https://github.com/jhonzerablack/hydrogeo-qgis</repository>
+    <category>Raster</category>
+  </pyqgis_plugin>
 </plugins>
